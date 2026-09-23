@@ -1,4 +1,4 @@
-Code used to obtain the SOM results in results.pdf. The underlying SOM uses the [Torch SOM](https://opensource.michelin.io/TorchSOM/) library.
+Code used to obtain the SOM results in [results.pdf](results.pdf). The underlying SOM uses the [Torch SOM](https://opensource.michelin.io/TorchSOM/) library.
 
 # Installation
 ```
